@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestProjectSuitMedia</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_palindrome">Palindrome</string>
+    <string name="button_check">Check</string>
+    <string name="button_next">Next</string>
+    <string name="txt_welcome">Welcome</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="please_fill_your_name">Please Fill Your Name</string>
+    <string name="please_fill_the_palindrome_section">Please Fill the Palindrome section</string>
+    <string name="timeout">Timeout</string>
+    <string name="try_again">Try Again</string>
+</resources>
