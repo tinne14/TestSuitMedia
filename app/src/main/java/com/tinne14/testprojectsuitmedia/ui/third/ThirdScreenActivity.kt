@@ -41,7 +41,7 @@ class ThirdScreenActivity : AppCompatActivity() {
         viewModel.getUser().observe(this) {
             adapter.submitData(lifecycle, it)
         }
-        
+
         adapter.addLoadStateListener {
             when(it.source.refresh){
                 is LoadState.Loading -> {
